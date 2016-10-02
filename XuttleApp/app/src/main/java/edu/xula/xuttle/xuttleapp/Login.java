@@ -35,7 +35,7 @@ public class Login extends Activity{
     }
 
     public void loadPickupScreen(View v){
-        startActivity(new Intent(Login.this, DriverPickupScreen.class));
+        startActivity(new Intent(Login.this, PickUp.class));
     }
 
 }
