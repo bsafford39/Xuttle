@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">XuttleApp</string>
+    <string name="title_activity_map_xuttle">Map</string>
+    <string-array name = "auto_complete">
+        <item>Popeyes</item>
+        <item>Wendys</item>
+        <item>DP</item>
+        <item>St Mikaels</item>
+        <item>Academic Annex</item>
+    </string-array>
+
 </resources>
