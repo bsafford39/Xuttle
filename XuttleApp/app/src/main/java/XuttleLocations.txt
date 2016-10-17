@@ -1,0 +1,52 @@
+Administration Building 
+29.964656, -90.107256
+Art Village
+29.961612, -90.108844
+Chinese Kitchen
+29.962790, -90.112849
+Convocation Academic Center
+29.963884, -90.109294
+Convocation Annex
+29.964135, -90.110109
+Deporres Residence Hall
+29.961252, -90.102984
+Five Guys Burgers and Fries
+29.977752, -90.097787
+Five Happiness
+29.964623, -90.110846
+Katherine Drexel Residence Hall
+29.963929, -90.106117
+Library Resource Center
+29.965928, -90.108123
+Little Tokyo
+29.976451, -90.097874
+Living/Learning Center
+29.962080, -90.102308
+McDonald's
+29.963541, -90.111724
+Music Building
+29.964692, -90.107919
+NCF Academic Science Complex
+29.965166, -90.108423
+Panera Bread
+29.977499, -90.098993
+Popeyes Louisiana Kitchen
+29.961755, -90.114960
+Rally's
+29.962550, -90.114140
+Raising Cane's Chicken Fingers
+29.962185, -90.113497
+St. Joseph Center
+29.963483, -90.106503
+St. Michaels Residence Hall
+29.964886, -90.106080
+Student Fitness Center
+29.961531, -90.103172
+Subway
+29.965235, -90.112132
+University Center
+29.963502, -90.105919
+Xavier South
+29.961531, -90.103172
+Wendy's
+29.962163, -90.114906
