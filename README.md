@@ -7,7 +7,7 @@ Ride share Mobile App for Xavier University of Louisiana. This app assists the u
 ![Autocomplete on Destinations](autocomplete.png)
 ![Selection of Destination](autocomplete2.png)
 ![View of map](mapview.png)
-![View of application during Android's Multitasking](multitaskview.png)
+![View of application during Android's Multitasking](multitastkview.png)
 
 
 
